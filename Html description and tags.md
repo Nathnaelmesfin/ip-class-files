@@ -195,7 +195,7 @@ For web development and programming, the most important attributes are **id** 
 
 
 # **Html Tags**
-
+```jsx
 <!-- Defines a comment -->
 <!--...--> 
 <!--Defines the document type-->
@@ -404,3 +404,5 @@ For web development and programming, the most important attributes are **id** 
 <video> 
 <!--Defines a possible line-break-->	
 <wbr> 
+```
+
