@@ -107,6 +107,7 @@ Overall, SCSS is a powerful tool that can help you write more efficient, organiz
 - SCSS offers variables, you can shorten your code by using variables. It is a great advantage over conventional CSS.
 
 # **Here are the syntx and there description**
+```jsx
 
 accent-color	  Specifies an accent color for user-interface controls
 align-content    	Specifies the alignment between the lines inside a flexible container when the items do not use all available space
@@ -468,3 +469,4 @@ word-wrap				Allows long, unbreakable words to be broken and wrap to the next li
 writing-mode			Specifies whether lines of text are laid out horizontally or vertically
 Z
 z-index				Sets the stack order of a positioned element
+```
