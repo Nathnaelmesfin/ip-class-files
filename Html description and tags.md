@@ -1,4 +1,4 @@
-# Html
+# HTML
 
 # **What is HTML?**
 
