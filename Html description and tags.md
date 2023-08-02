@@ -1,4 +1,4 @@
-# Html, Css, Scss
+# Html
 
 # **What is HTML?**
 
